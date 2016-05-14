@@ -1,0 +1,50 @@
+.container{
+	max-width: 700px;
+	margin: auto;
+	background: white;
+	box-sizing: border-box;
+	padding: 30px;
+}
+nav .menu{
+	padding-top: 5px;
+	padding-left: 15px;
+	padding-right: 10px;
+	float: right;
+	box-sizing: border-box;
+
+}
+.menu li{
+	display: inline-block;
+	font-family: "raleway";
+	font-size: 10px;
+	box-sizing: border-box;
+}
+
+a{
+	text-decoration: none;
+	color:black;
+}
+
+/*************fondo*****************/
+
+.fondo{
+	background-image: url(imagenes/indexbanner-bg3.jpg);
+	background-position: center;
+	height: 608px;
+}
+
+.articulo{
+	max-width: 700px;
+	margin: auto;
+	background: white;
+	box-sizing: border-box;
+	padding: 30px;
+	background: none;
+	color : white;
+}
+.articulo h2{
+	font-size: 40px;
+}
+.articulo p{
+
+}
