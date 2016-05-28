@@ -144,3 +144,10 @@ a{
 .tercer-article{
 	padding-top: 40px;
 }
+
+.segunda-caja{
+	width: 380px;
+	height: 430px;
+	background: red;
+	display: inline-block;
+}
