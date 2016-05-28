@@ -78,6 +78,7 @@ a{
 	text-transform: uppercase;
 	font-size: 15px;
 	text-align: center;
+
 }
 
 .parrafo-iconos{
@@ -106,7 +107,7 @@ a{
 	font-weight: 300px;
 }
 
-/**********CAJAS*********/
+/****************CAJAS*************/
 .primer-article{
 	 padding-top: 100px;
 }
@@ -131,7 +132,15 @@ a{
     padding-top: 40px;
     padding-right: 59px;
 }
+.subtitulos{
+	font-family: Raleway;
+	font-size: 15px;
+	text-transform: uppercase;
+}
 
-.primer-caja article h4{
-	font-family: Raleway, sans-serif;
+.segundo-article{
+	padding-top: 40px;
+}
+.tercer-article{
+	padding-top: 40px;
 }
