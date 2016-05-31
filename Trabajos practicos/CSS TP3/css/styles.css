@@ -151,3 +151,6 @@ a{
 	background: red;
 	display: inline-block;
 }
+
+/*investigar vertical align solo funciona con display
+inlin-block*/

@@ -1,0 +1,12 @@
+//////////////HEADER////////////////////
+.barra-navegacion{
+  float: right;
+  margin-top: -20px;
+  li{
+    display: inline-block;
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+  }
+}
