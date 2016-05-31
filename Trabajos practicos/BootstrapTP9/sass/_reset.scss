@@ -427,6 +427,11 @@ figure{
 }
 a{
 	outline: none !important;
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  text-decoration: none;
 }
 
 ul,
@@ -438,6 +443,6 @@ ol{
 
 
 ///////////////////////////GOOGLE FONTS////////////////////////
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
 
 //font-family: "Raleway";
