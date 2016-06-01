@@ -13,6 +13,11 @@
     font-weight: 700;
     font-size: 10px; }
 
+.fondo {
+  background-color: #008e6a;
+  height: 688px;
+  width: 1366px; }
+
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Change the default font family in all browsers (opinionated).
