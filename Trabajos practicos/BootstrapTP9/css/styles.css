@@ -1,28 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
-.header-nav {
-  padding-top: 10px; }
-
-.barra-navegacion {
-  float: right;
-  margin-top: -20px; }
-  .barra-navegacion li {
-    display: inline-block;
-    margin-left: 20px;
-    text-transform: uppercase;
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 10px; }
-
-.fondo {
-  background-color: #008e6a;
-  height: 688px;
-  width: 1366px; }
-
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Change the default font family in all browsers (opinionated).
  * 2. Prevent adjustments of font size after orientation changes in IE and iOS.
  */
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
 html {
   font-family: sans-serif;
   /* 1 */
@@ -404,5 +385,53 @@ ol {
   margin: 0;
   padding: 0;
   list-style: none; }
+
+.header-nav {
+  padding-top: 10px;
+  padding-bottom: 10px; }
+
+.barra-navegacion {
+  float: right;
+  margin-top: -20px; }
+  .barra-navegacion li {
+    display: inline-block;
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 10px; }
+
+.fondo {
+  background-color: #008e6a;
+  height: 688px;
+  width: 1366px; }
+
+.btn-info {
+  background-color: #00adf2;
+  border-color: #00adf2;
+  border-radius: 0px; }
+
+.form-inline .form-control {
+  width: 650px;
+  border-radius: 0px; }
+
+.reg-up {
+  padding-top: 300px; }
+  .reg-up h2 {
+    font-size: 50px; }
+    .reg-up h2 p {
+      padding-top: 50px; }
+
+.iconos {
+  text-align: center;
+  padding-top: 90px;
+  font-family: "Raleway", sans-serif; }
+  .iconos .icono {
+    display: inline-block;
+    padding-left: 30px; }
+    .iconos .icono .titulo-iconos {
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: 13px; }
 
 /*# sourceMappingURL=styles.css.map */
