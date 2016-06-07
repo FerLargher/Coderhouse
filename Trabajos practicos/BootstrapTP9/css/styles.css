@@ -434,4 +434,18 @@ ol {
       text-transform: uppercase;
       font-size: 13px; }
 
+.threedot {
+  text-align: center;
+  padding-top: 100px; }
+  .threedot h2 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700; }
+
+.cajas-phone {
+  height: 622px;
+  width: 430px;
+  float: left; }
+  .cajas-phone .icono-izquierda {
+    float: right; }
+
 /*# sourceMappingURL=styles.css.map */

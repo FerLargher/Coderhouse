@@ -60,3 +60,22 @@
   }
   }
 }
+
+.threedot{
+  text-align: center;
+  padding-top: 100px;
+  h2{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+  }
+}
+
+/////////////////PHONE////////////////////////
+.cajas-phone{
+  height: 622px;
+  width: 430px;
+  float: left;
+  .icono-izquierda{
+    float: right;
+  }
+}
