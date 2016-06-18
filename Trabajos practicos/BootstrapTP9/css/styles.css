@@ -402,9 +402,10 @@ ol {
     font-size: 10px; }
 
 .fondo {
-  background-color: #008e6a;
+  background-image: url("./img/indexbanner-bg3.jpg");
   height: 688px;
-  width: 1366px; }
+  width: 1366px;
+  display: block; }
 
 .btn-info {
   background-color: #00adf2;
@@ -445,7 +446,5 @@ ol {
   height: 622px;
   width: 430px;
   float: left; }
-  .cajas-phone .icono-izquierda {
-    float: right; }
 
 /*# sourceMappingURL=styles.css.map */
