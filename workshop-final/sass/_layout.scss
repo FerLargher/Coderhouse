@@ -1,0 +1,18 @@
+///////////////////////NAV/////////////////////
+.navbar{
+  font-family: "Source sans pro", sans-serif;
+  text-transform: uppercase;
+  background-color: #dee7ea;
+  margin-bottom: 0;
+  .btn-back:hover{
+    background-color: #7d4741;
+  }
+}
+
+///////////////BANNER///////////////////
+.banner{
+  background-image: url(img/bg_header.jpg);
+  background-position: center;
+  min-height: 300px;
+  padding-top: 15px;
+}
